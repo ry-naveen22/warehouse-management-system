@@ -13,7 +13,7 @@ The warehouse should have at least the following functionality;
 
 ## Instructions
 1) Start SpringBoot Application by running main method of ManagementSystemApplication.java
-2) UI will be server at http://localhost:8080
+2) UI will be served at http://localhost:8080
 3) Upload Inventory.json using UploadInventory button 
 ![](2022-08-22-05-30-24.png)
 4) Upload Products.json using Upload Product button
